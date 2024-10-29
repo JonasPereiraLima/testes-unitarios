@@ -1,0 +1,14 @@
+C:\Users\jonas\OneDrive\Documentos\dio\projects\newTalents\Api\bin\Debug\net8.0\newTalents.exe
+C:\Users\jonas\OneDrive\Documentos\dio\projects\newTalents\Api\bin\Debug\net8.0\newTalents.deps.json
+C:\Users\jonas\OneDrive\Documentos\dio\projects\newTalents\Api\bin\Debug\net8.0\newTalents.runtimeconfig.json
+C:\Users\jonas\OneDrive\Documentos\dio\projects\newTalents\Api\bin\Debug\net8.0\newTalents.dll
+C:\Users\jonas\OneDrive\Documentos\dio\projects\newTalents\Api\bin\Debug\net8.0\newTalents.pdb
+C:\Users\jonas\OneDrive\Documentos\dio\projects\newTalents\Api\obj\Debug\net8.0\newTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Documentos\dio\projects\newTalents\Api\obj\Debug\net8.0\newTalents.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Documentos\dio\projects\newTalents\Api\obj\Debug\net8.0\newTalents.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Documentos\dio\projects\newTalents\Api\obj\Debug\net8.0\newTalents.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Documentos\dio\projects\newTalents\Api\obj\Debug\net8.0\newTalents.dll
+C:\Users\jonas\OneDrive\Documentos\dio\projects\newTalents\Api\obj\Debug\net8.0\refint\newTalents.dll
+C:\Users\jonas\OneDrive\Documentos\dio\projects\newTalents\Api\obj\Debug\net8.0\newTalents.pdb
+C:\Users\jonas\OneDrive\Documentos\dio\projects\newTalents\Api\obj\Debug\net8.0\newTalents.genruntimeconfig.cache
+C:\Users\jonas\OneDrive\Documentos\dio\projects\newTalents\Api\obj\Debug\net8.0\ref\newTalents.dll
